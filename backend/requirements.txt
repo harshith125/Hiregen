@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn
+motor
+beanie
+pydantic[email]
+pandas
+numpy
+cachetools
+groq
