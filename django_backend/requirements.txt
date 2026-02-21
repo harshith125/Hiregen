@@ -1,0 +1,7 @@
+Django>=5.0,<6.0
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+python-dotenv
+psycopg2-binary # Assuming PostgreSQL might be used later, but good to have. SQLite is default.
+groq
